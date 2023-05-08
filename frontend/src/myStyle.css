@@ -1,0 +1,50 @@
+.myUL{
+    margin-left: 950px;
+}
+
+.myFooter{
+    background-color: #d9534f;
+    margin-top: 480px;
+    color: #fffcf9;
+    height: 35px;
+    text-align: center;
+    line-height: 4px;
+}
+
+.NavColor{
+    color: white;
+}
+
+.navbarHeader{
+    height: 40px;
+    width: 100%;
+}
+
+.checkOutBtn{
+    margin-top: 40px;
+}
+
+.checkOutCard{
+    padding: 10px;
+}
+
+.loginBtn{
+    margin-top: 30px;
+}
+
+.cartBtn{
+    margin-top: 15px;
+}
+
+.qtyCart{
+    margin-top: 25px;
+}
+
+.shippingBtn{
+    margin-top:20px
+}
+
+.paymentBtn{
+    margin-top: 20px;
+}
+

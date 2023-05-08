@@ -1,0 +1,44 @@
+main{
+  
+}
+
+h3{
+  padding: 1rem 0;
+}
+
+.rating span{
+  margin: 0.1rem;
+}
+
+h1{
+  font-size: 1.8rem;
+}
+
+.menu{
+  width: 890px;
+  margin-left: -120px;
+  
+}
+
+.menu Button{
+  color: aliceblue;
+  width: 180px;
+  
+}
+
+.menu Button :hover{
+  color: rgb(198, 198, 199);
+  
+}
+
+
+.menu .navLink{
+  color: aliceblue;
+}
+
+
+
+.paymentHeading:checked{
+  background-color:#d9534f;
+  border-color: #d9534f;
+}
